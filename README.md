@@ -3,4 +3,7 @@
 Hello! I'm Natesh.
 ------------------
 
-I'm a software developer, focusing on systems programming, firmware and digital electronincs.
+I'm a software developer, focusing on systems programming, firmware and digital electronics.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
