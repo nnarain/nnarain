@@ -1,5 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnarain&layout=compact" align="right">
 
-Hello!
+Hello! I'm Natesh.
+------------------
 
-I'm a software developer, primarily interested in systems programming, firmware and digital electronincs.
+I'm a software developer, focusing on systems programming, firmware and digital electronincs.
