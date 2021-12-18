@@ -15,3 +15,5 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 * [Setting up per package targets in Rust](https://nnarain.github.io/2021/08/02/Setting-up-per-package-targets-in-Rust.html) (2021-08-02)
 
 <!-- BLOG-POST-LIST:END -->
+
+[![GameboyCore Card](https://github-readme-stats.vercel.app/api/pin/?username=nnarain&repo=gameboy)](https://github.com/nnarain/gameboycore)
