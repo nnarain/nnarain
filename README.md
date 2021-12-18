@@ -16,4 +16,7 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 
 <!-- BLOG-POST-LIST:END -->
 
-[![GameboyCore Card](https://github-readme-stats.vercel.app/api/pin/?username=nnarain&repo=gameboy)](https://github.com/nnarain/gameboycore)
+<details>
+<summary>Emulators</summary>
+<p>[![GameboyCore Card](https://github-readme-stats.vercel.app/api/pin/?username=nnarain&repo=gameboy)](https://github.com/nnarain/gameboycore)</p>
+</details>
