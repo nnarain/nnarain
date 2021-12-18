@@ -16,7 +16,3 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-<summary>Emulators</summary>
-![GameboyCore](https://github-readme-stats.vercel.app/api/pin/?username=nnarain&repo=gameboycore)
-</details>
