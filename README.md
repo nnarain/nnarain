@@ -21,3 +21,4 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 [![Blog Badge](https://img.shields.io/badge/-Blog-green?style=flat-square&logo=github)](https://nnarain.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/natesh-narain-4b46b285/)
 [![Hackaday Badge](https://img.shields.io/badge/-Hackaday-black?style=flat-square&logo=hackaday)](https://hackaday.io/projects/hacker/482112)
+[![Thingiverse Badge](https://img.shields.io/badge/-Thingiverse-darkblue?style=flat-square&logo=thingiverse)](https://www.thingiverse.com/nnarain/designs)
