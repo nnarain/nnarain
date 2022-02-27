@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [Curious Case of Y Axis Layer Shift](https://nnarain.github.io/2022/02/26/Curious-Case-of-Y-Axis-Layer-Shift.html) (2022-02-26)
 * [Power Distribution Board](https://nnarain.github.io/2022/01/26/Power-Distribution-Board.html) (2022-01-26)
 * [First large multi-part 3D model](https://nnarain.github.io/2021/12/30/First-large-multi-part-3D-model.html) (2021-12-30)
 * [Icarus - Application Firmware Setup](https://nnarain.github.io/2021/12/16/Icarus-Application-Firmware-Setup.html) (2021-12-16)
 * [Icarus Bringup](https://nnarain.github.io/2021/11/29/Icarus-Bringup.html) (2021-11-29)
-* [Icarus Controller](https://nnarain.github.io/2021/11/28/Icarus-Controller.html) (2021-11-28)
 
 <!-- BLOG-POST-LIST:END -->
 
