@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [Icarus Frame Design](https://nnarain.github.io/2022/08/28/Icarus-Frame-Design.html) (2022-08-28)
 * [Building CAN tools using Rust](https://nnarain.github.io/2022/08/21/Building-CAN-tools-using-Rust.html) (2022-08-21)
 * [Icarus Rev C Bring up](https://nnarain.github.io/2022/07/31/Icarus-Rev-C-Bring-up.html) (2022-07-31)
 * [Icarus Rev C](https://nnarain.github.io/2022/07/16/Icarus-Rev-C.html) (2022-07-16)
 * [ESP32-C3-MINI-1 Dev Board](https://nnarain.github.io/2022/06/18/ESP32-C3-MINI-1-Dev-Board.html) (2022-06-18)
-* [ESP32 Light Controller](https://nnarain.github.io/2022/05/19/ESP32-Light-Controller.html) (2022-05-19)
 
 <!-- BLOG-POST-LIST:END -->
 
