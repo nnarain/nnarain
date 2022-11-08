@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [ROSCon and IROS 2022!](https://nnarain.github.io/2022/10/31/ROSCon-and-IROS-2022!.html) (2022-10-31)
 * [Helios Light Controller Rev D](https://nnarain.github.io/2022/09/23/ESP-Light-Controller-Rev-D.html) (2022-09-23)
 * [BotW - Royal Broadsword v2](https://nnarain.github.io/2022/08/31/BotW-Royal-Broadsword-v2.html) (2022-08-31)
 * [Icarus Frame Design](https://nnarain.github.io/2022/08/28/Icarus-Frame-Design.html) (2022-08-28)
 * [Building CAN tools using Rust](https://nnarain.github.io/2022/08/21/Building-CAN-tools-using-Rust.html) (2022-08-21)
-* [Icarus Rev C Bring up](https://nnarain.github.io/2022/07/31/Icarus-Rev-C-Bring-up.html) (2022-07-31)
 
 <!-- BLOG-POST-LIST:END -->
 
