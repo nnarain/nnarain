@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [Makes of the month](https://nnarain.github.io/2023/10/13/Makes-of-the-Month.html) (2023-10-13)
 * [Icarus PID Tuning](https://nnarain.github.io/2023/09/03/Icarus-PID-Tuning.html) (2023-09-03)
 * [Ender 3 Pro Review](https://nnarain.github.io/2023/08/20/Ender-3-Pro-Review.html) (2023-08-20)
 * [Dealing with Layer shift - Part 3](https://nnarain.github.io/2023/08/20/Dealing-with-Layer-shift-Part-3.html) (2023-08-20)
 * [Icarus In-place testing](https://nnarain.github.io/2023/07/22/Icarus-In-place-testing.html) (2023-07-22)
-* [What I selfhost](https://nnarain.github.io/2023/06/18/What-I-selfhost.html) (2023-06-18)
 
 <!-- BLOG-POST-LIST:END -->
 
