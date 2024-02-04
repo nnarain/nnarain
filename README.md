@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [Makes of the Month](https://nnarain.github.io/2024/02/03/Makes-of-the-Month.html) (2024-02-03)
 * [2023 Retrospective](https://nnarain.github.io/2023/12/31/2023-Retrospective.html) (2023-12-31)
 * [The Burnout Post](https://nnarain.github.io/2023/11/28/The-Burnout-Post.html) (2023-11-28)
 * [ROSCon 2023, New Orleans!](https://nnarain.github.io/2023/10/21/ROSCon-2023,-New-Orleans!.html) (2023-10-21)
 * [Makes of the month](https://nnarain.github.io/2023/10/13/Makes-of-the-Month.html) (2023-10-13)
-* [Icarus PID Tuning](https://nnarain.github.io/2023/09/03/Icarus-PID-Tuning.html) (2023-09-03)
 
 <!-- BLOG-POST-LIST:END -->
 
