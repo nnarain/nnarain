@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [Drone Assembly.. Again &lpar;Icarus Rev E&rpar;](https://nnarain.github.io/2024/09/14/Drone-Assembly-Again-(Icarus-Rev-E).html) (2024-09-14)
 * [Gamepad RC Stack](https://nnarain.github.io/2024/08/05/Gamepad-RC-Stack.html) (2024-08-05)
 * [Icarus Rev E - Firmware Bringup, Part 2](https://nnarain.github.io/2024/08/04/Icarus-Rev-E-Firmware-Bringup,-Part-2.html) (2024-08-04)
 * [Icarus Rev E - Firmware Bringup](https://nnarain.github.io/2024/07/04/Icarus-Rev-E-Firmware-Bringup.html) (2024-07-04)
 * [Makes of the Month](https://nnarain.github.io/2024/06/30/Makes-of-the-Month.html) (2024-06-30)
-* [Icarus Rev E](https://nnarain.github.io/2024/06/16/Icarus-Rev-E.html) (2024-06-16)
 
 <!-- BLOG-POST-LIST:END -->
 
