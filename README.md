@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [RP2040 Devboard](https://nnarain.github.io/2025/01/26/RP2040-Devboard.html) (2025-01-26)
+* [ROS 2 Integration Tests](https://nnarain.github.io/2025/01/25/ROS-2-Integration-Tests.html) (2025-01-25)
 * [2024 Retrospective](https://nnarain.github.io/2024/12/26/2024-Retrospective.html) (2024-12-26)
 * [STM32H5 WS2812 Example](https://nnarain.github.io/2024/12/07/STM32H5-WS2812-Example.html) (2024-12-07)
 * [ROSCon 2024, Odense!](https://nnarain.github.io/2024/11/02/ROSCon-2024,-Odense!.html) (2024-11-02)
-* [Experimenting with OpenCyphal](https://nnarain.github.io/2024/10/08/Experimenting-with-OpenCyphal.html) (2024-10-08)
-* [Drone Assembly.. Again &lpar;Icarus Rev E&rpar;](https://nnarain.github.io/2024/09/14/Drone-Assembly-Again-(Icarus-Rev-E).html) (2024-09-14)
 
 <!-- BLOG-POST-LIST:END -->
 
