@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [ROSCon 2025, Singapore!](https://nnarain.github.io/2025/11/04/ROSCon-Singapore.html) (2025-11-04)
 * [The Great Homelab Renaissance](https://nnarain.github.io/2025/10/13/The-Great-Homelab-Renaissance.html) (2025-10-13)
 * [Controlling a Dynamixel AX-12A with a Raspberry Pi and ROS 2](https://nnarain.github.io/2025/04/26/Setting-up-a-Dynamixel-AX-12A-with-a-Raspberry-Pi-5.html) (2025-04-26)
 * [RP2040 Devboard](https://nnarain.github.io/2025/01/26/RP2040-Devboard.html) (2025-01-26)
 * [ROS 2 Integration Tests](https://nnarain.github.io/2025/01/25/ROS-2-Integration-Tests.html) (2025-01-25)
-* [2024 Retrospective](https://nnarain.github.io/2024/12/26/2024-Retrospective.html) (2024-12-26)
 
 <!-- BLOG-POST-LIST:END -->
 
