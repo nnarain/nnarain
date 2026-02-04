@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [iRobot Create 2 - Battery Mounting Solution](https://nnarain.github.io/2026/02/02/iRobot-Create-2-Battery-Mounting-Solution.html) (2026-02-02)
 * [Local DNS for Home Network](https://nnarain.github.io/2026/01/25/Local-DNS-for-Home-Network.html) (2026-01-25)
 * [iRobot Create 2 - openGrid baseplate](https://nnarain.github.io/2026/01/13/iRobot-Create-2-openGrid-baseplate.html) (2026-01-13)
 * [2025 Retrospective](https://nnarain.github.io/2025/12/30/2025-Retrospective.html) (2025-12-30)
 * [Attempts at CalDav](https://nnarain.github.io/2025/12/26/Attempts-at-CalDav.html) (2025-12-26)
-* [Setting up an MCP server with Ollama](https://nnarain.github.io/2025/11/27/Setting-up-an-MCP-server-with-Ollama.html) (2025-11-27)
 
 <!-- BLOG-POST-LIST:END -->
 
