@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [Genbu Robot - Nav2-ing](https://nnarain.github.io/2026/07/03/Genbu-Robot-Nav2-ing.html) (2026-07-03)
 * [Genbu Robot - Problems and Fixes](https://nnarain.github.io/2026/06/29/Genbu-Robot-Problems-and-Fixes.html) (2026-06-29)
 * [Homelab LLMs](https://nnarain.github.io/2026/05/28/Open-WebUI-on-my-homelab.html) (2026-05-28)
 * [Makes of the Month](https://nnarain.github.io/2026/05/27/Makes-of-the-Month.html) (2026-05-27)
 * [Nav2 Initial Bringup](https://nnarain.github.io/2026/04/12/Setting-up-Nav2.html) (2026-04-12)
-* [RPLidar Setup in ROS and Gazebo](https://nnarain.github.io/2026/03/26/RPLidar-Setup-in-ROS-and-Gazebo.html) (2026-03-26)
 
 <!-- BLOG-POST-LIST:END -->
 
