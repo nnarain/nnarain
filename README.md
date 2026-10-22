@@ -8,11 +8,11 @@ I'm a software developer, focusing on systems programming, firmware and digital 
 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+* [ROS 2 and Pixi on a Raspberry Pi](https://nnarain.github.io/2026/10/20/ROS-2-and-Pixi-on-a-Raspberry-Pi.html) (2026-10-20)
 * [ROSCon 2026, Toronto!](https://nnarain.github.io/2026/09/27/ROSCon-2026,-Toronto!.html) (2026-09-27)
 * [Hermes Agent on Homelab](https://nnarain.github.io/2026/09/08/Hermes-Agent-on-Homelab.html) (2026-09-08)
 * [Genbu Robot - Nav2-ing](https://nnarain.github.io/2026/07/03/Genbu-Robot-Nav2-ing.html) (2026-07-03)
 * [Genbu Robot - Problems and Fixes](https://nnarain.github.io/2026/06/29/Genbu-Robot-Problems-and-Fixes.html) (2026-06-29)
-* [Homelab LLMs](https://nnarain.github.io/2026/05/28/Open-WebUI-on-my-homelab.html) (2026-05-28)
 
 <!-- BLOG-POST-LIST:END -->
 
